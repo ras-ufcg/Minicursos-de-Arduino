@@ -24,7 +24,7 @@
 - SAÍDA ANALÓGICA 
    - É realmente analógica? Como funciona?
    - O que é PWM?
-   - Como implementar a Saída Analógica
+   - Projeto: Dimmer
       - analogWrite()
       - map()
 
